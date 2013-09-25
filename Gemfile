@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.14'
 gem 'bootstrap-sass'
 gem 'devise'
+gem 'simple_form'
 
 
 # Bundle edge Rails instead:
